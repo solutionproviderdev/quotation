@@ -1,0 +1,274 @@
+[
+	{
+		"id": "1",
+		"name": "Residential Projects",
+		"subcategories": [
+			{
+				"id": "1-1",
+				"name": "Single Apartments",
+				"areas": [
+					{
+						"id": "area-1",
+						"name": "Waiting Zone Area"
+					},
+					{
+						"id": "area-2",
+						"name": "Lift Lobby Area"
+					},
+					{
+						"id": "area-3",
+						"name": "Foyer Area"
+					},
+					{
+						"id": "area-4",
+						"name": "Formal Living Area"
+					},
+					{
+						"id": "area-5",
+						"name": "Dinning Area"
+					},
+					{
+						"id": "area-6",
+						"name": "Family Living Area"
+					},
+					{
+						"id": "area-7",
+						"name": "Kitchen Area",
+						"laoutOptions": [
+							"I Shape (Horizontal)",
+							"I Shape (Vertical)",
+							"L Shape",
+							"L Shape",
+							"L Shape",
+							"L Shape",
+							"U Shape",
+							"U Shape",
+							"U Shape",
+							"U Shape"
+						]
+					},
+					{
+						"id": "area-8",
+						"name": "Study Area"
+					},
+					{
+						"id": "area-9",
+						"name": "Master Bedroom Area"
+					},
+					{
+						"id": "area-10",
+						"name": "Master Bath - 1"
+					},
+					{
+						"id": "area-11",
+						"name": "Kids Bedroom Area"
+					},
+					{
+						"id": "area-12",
+						"name": "Additional Bedroom Area"
+					},
+					{
+						"id": "area-13",
+						"name": "Common Area"
+					},
+					{
+						"id": "area-14",
+						"name": "Common Area Bath"
+					},
+					{
+						"id": "area-15",
+						"name": "Guest Bedroom Area"
+					},
+					{
+						"id": "area-16",
+						"name": "Balcony Area"
+					}
+				]
+			},
+			{
+				"id": "1-2",
+				"name": "Simplex Apartments",
+				"areas": []
+			},
+			{
+				"id": "1-3",
+				"name": "Duplex Apartments",
+				"areas": []
+			},
+			{
+				"id": "1-4",
+				"name": "Duplex Houses",
+				"areas": []
+			},
+			{
+				"id": "1-5",
+				"name": "Villas",
+				"areas": []
+			},
+			{
+				"id": "1-6",
+				"name": "Studio Apartments",
+				"areas": []
+			},
+			{
+				"id": "1-7",
+				"name": "Penthouse Designs",
+				"areas": []
+			}
+		]
+	},
+	{
+		"id": "1",
+		"name": "Residential Projects",
+		"subcategories": [
+			{
+				"id": "1-1",
+				"name": "Single Apartments",
+				"areas": []
+			},
+			{
+				"id": "1-2",
+				"name": "Simplex Apartments",
+				"areas": []
+			},
+			{
+				"id": "1-3",
+				"name": "Duplex Apartments",
+				"areas": []
+			},
+			{
+				"id": "1-4",
+				"name": "Duplex Houses",
+				"areas": []
+			},
+			{
+				"id": "1-5",
+				"name": "Villas",
+				"areas": []
+			},
+			{
+				"id": "1-6",
+				"name": "Studio Apartments",
+				"areas": []
+			},
+			{
+				"id": "1-7",
+				"name": "Penthouse Designs",
+				"areas": []
+			}
+		]
+	},
+	{
+		"id": "2",
+		"name": "Commercial Projects",
+		"subcategories": [
+			{
+				"id": "2-1",
+				"name": "Office Spaces",
+				"areas": []
+			},
+			{
+				"id": "2-2",
+				"name": "Retail Shops",
+				"areas": []
+			},
+			{
+				"id": "2-3",
+				"name": "Spa and Wellness Centers",
+				"areas": []
+			},
+			{
+				"id": "2-4",
+				"name": "Restaurants and Cafés",
+				"areas": []
+			},
+			{
+				"id": "2-5",
+				"name": "Hotels and Resorts",
+				"areas": []
+			},
+			{
+				"id": "2-6",
+				"name": "Co-working Spaces",
+				"areas": []
+			},
+			{
+				"id": "2-7",
+				"name": "Corporate Headquarters",
+				"areas": []
+			},
+			{
+				"id": "2-8",
+				"name": "Commercial Display Centers",
+				"areas": []
+			}
+		]
+	},
+	{
+		"id": "3",
+		"name": "Institutional Projects",
+		"subcategories": [
+			{
+				"id": "3-1",
+				"name": "Educational Institutes",
+				"areas": []
+			},
+			{
+				"id": "3-2",
+				"name": "Libraries",
+				"areas": []
+			},
+			{
+				"id": "3-3",
+				"name": "Hospitals",
+				"areas": []
+			},
+			{
+				"id": "3-4",
+				"name": "Religious Centers",
+				"areas": []
+			},
+			{
+				"id": "3-5",
+				"name": "Community Halls",
+				"areas": []
+			}
+		]
+	},
+	{
+		"id": "4",
+		"name": "Specialty Projects",
+		"subcategories": [
+			{
+				"id": "4-1",
+				"name": "Modular Kitchens",
+				"areas": []
+			},
+			{
+				"id": "4-2",
+				"name": "Custom Furniture Solutions",
+				"areas": []
+			},
+			{
+				"id": "4-3",
+				"name": "Wardrobe Design",
+				"areas": []
+			},
+			{
+				"id": "4-4",
+				"name": "Home Theaters",
+				"areas": []
+			},
+			{
+				"id": "4-5",
+				"name": "Children's Playrooms",
+				"areas": []
+			},
+			{
+				"id": "4-6",
+				"name": "Multi-Functional Spaces",
+				"areas": []
+			}
+		]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"id": "product1",
+		"name": "Kitchen Cabinet",
+		"description": "High-quality kitchen cabinet",
+		"type": "Kitchen Area",
+		"series": [
+			{
+				"name": "Economic",
+				"price": 1500,
+				"specifications": [
+					{ "item": "Material", "description": "Wood" },
+					{ "item": "Finish", "description": "Matte" }
+				]
+			},
+			{
+				"name": "Premium",
+				"price": 2500,
+				"specifications": [
+					{ "item": "Material", "description": "Plywood" },
+					{ "item": "Finish", "description": "Glossy" }
+				]
+			}
+		]
+	}
+]

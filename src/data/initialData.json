@@ -1,0 +1,73 @@
+{
+	"projectTypes": [
+		{
+			"id": "residential",
+			"name": "Residential",
+			"subcategories": ["Single Apartments", "Houses", "Villas"]
+		},
+		{
+			"id": "commercial",
+			"name": "Commercial",
+			"subcategories": ["Office Spaces", "Retail Stores", "Restaurants"]
+		},
+		{
+			"id": "institutional",
+			"name": "Institutional",
+			"subcategories": ["Schools", "Hospitals", "Government Buildings"]
+		},
+		{
+			"id": "specialty",
+			"name": "Specialty",
+			"subcategories": ["Hotels", "Museums", "Religious Buildings"]
+		}
+	],
+	"areas": [
+		{
+			"id": "kitchen",
+			"name": "Kitchen Area",
+			"layouts": ["L Shape", "U Shape", "I Shape", "G Shape"]
+		},
+		{
+			"id": "balcony",
+			"name": "Balcony Area",
+			"layouts": ["Linear", "Corner", "Wrap-around"]
+		},
+		{
+			"id": "study",
+			"name": "Study Area",
+			"layouts": ["Wall-mounted", "Corner Setup", "Island"]
+		}
+	],
+	"products": [
+		{
+			"id": "kitchen-cabinets",
+			"name": "Kitchen Cabinets",
+			"itemTypes": [
+				"Middle Part Cabinet",
+				"Upper Part Cabinet",
+				"Base Cabinet",
+				"Pantry Cabinet"
+			]
+		},
+		{
+			"id": "tv-units",
+			"name": "TV Units / Media Units",
+			"itemTypes": [
+				"Floating Cabinets",
+				"Entertainment Center",
+				"Media Console",
+				"Wall Panel System"
+			]
+		},
+		{
+			"id": "storage",
+			"name": "Storage Solutions",
+			"itemTypes": [
+				"Wardrobe",
+				"Shelving Units",
+				"Display Cases",
+				"Utility Cabinets"
+			]
+		}
+	]
+}
