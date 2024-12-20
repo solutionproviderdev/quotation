@@ -9,3 +9,47 @@
 		margin: 0;
 	}
 }
+
+/* @page {
+	size: A4;
+} */
+
+@page {
+	size: A4; /* Set page size to A4 */
+	margin: 0; /* Remove default margins */
+}
+
+@media print {
+	html,
+	body {
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+		margin: 0;
+		padding: 0;
+		height: 100%;
+		width: 100%;
+	}
+
+	.print-elevation {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		/* The container should fill the entire page */
+		width: 210mm;
+		height: 297mm;
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+
+	/* If needed, you can give your elevation component a max size to ensure it fits */
+	.print-elevation > div {
+		/* Assume the elevation is within a div */
+		max-width: 100%;
+		max-height: 100%;
+		/* Ensure backgrounds and borders are rendered */
+		background: white;
+		box-sizing: border-box;
+		scale: 1.7;
+	}
+}
