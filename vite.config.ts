@@ -8,7 +8,7 @@ export default defineConfig({
 		exclude: ['lucide-react'],
 	},
 	server: {
-		host: '0.0.0.0', // Listen on all addresses, including the local network
-		port: 5173, // Default Vite port, you can change this if needed
+		host: '0.0.0.0',
+		port: 5173, 
 	},
 });
